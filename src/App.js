@@ -23,6 +23,8 @@ function App() {
       <CrudProvider>
         <CrudApi />
       </CrudProvider>
+      <br />
+      <hr />
     </div>
   );
 }
